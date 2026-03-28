@@ -4,7 +4,7 @@
 
 ### Atmospheric Electricity • Environmental Monitoring • Scientific Computing • Space Weather
 
-[Website](https://rudimirz.com) • [LinkedIn](https://linkedin.com/in/rudimirz) • [ORCID](https://orcid.org/0000-0001-8818-4876)
+[Website](https://rudimirz.com) • [Papers](https://rudimirz.com/papers/) • [LinkedIn](https://linkedin.com/in/rudimirz) • [ORCID](https://orcid.org/0000-0001-8818-4876)
 
 </div>
 
@@ -61,4 +61,5 @@ Publish 9 papers by the completion of the PhD.
 ## Elsewhere
 
 - Website: [rudimirz.com](https://rudimirz.com)
+- Papers: [rudimirz.com/papers](https://rudimirz.com/papers/)
 - GitHub: [github.com/rudimirz](https://github.com/rudimirz)
