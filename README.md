@@ -1,6 +1,6 @@
-<div align="center">
-
 # Rubén Mauricio Romero Ramírez
+
+<div align="center">
 
 ### Atmospheric Electricity • Environmental Monitoring • Scientific Computing • Space Weather
 
@@ -10,9 +10,9 @@
 
 I am a PhD researcher at CRAAM working at the intersection of atmospheric electricity, environmental instrumentation, and scientific data analysis.
 
-This profile offers a concise overview of my work. For publications, projects, and a broader portfolio, please visit [rudimirz.com](https://rudimirz.com).
+This profile offers a concise overview of my research direction, current work, and publication roadmap. For publications, projects, and a broader portfolio, please visit [rudimirz.com](https://rudimirz.com).
 
-## Focus
+## Research Focus
 
 - Advancing research on atmospheric potential gradient and the Global Atmospheric Electric Circuit
 - Building environmental early-warning and remote sensing workflows
@@ -20,7 +20,7 @@ This profile offers a concise overview of my work. For publications, projects, a
 
 ## Current Work
 
-| Area | What I am doing |
+| Area | Current direction |
 | --- | --- |
 | Research | Atmospheric electricity, aerosols, dust events, and geophysical-environmental coupling |
 | Modeling | EGATEC-related work and data-driven analysis for environmental signals |
@@ -29,13 +29,11 @@ This profile offers a concise overview of my work. For publications, projects, a
 
 ## Research Themes
 
-```text
-Atmospheric electricity
-Environmental monitoring
-Space weather and geospace science
-Scientific Python
-Data visualization
-```
+- Atmospheric electricity
+- Environmental monitoring
+- Space weather and geospace science
+- Scientific Python
+- Data visualization
 
 ## Approach
 
@@ -44,7 +42,23 @@ Data visualization
 - Useful tools built from real research needs
 - Collaboration across institutions and disciplines
 
+## Research Roadmap
+
+### Long-Term Goal
+
+Publish 9 papers by the completion of the PhD.
+
+### Pipeline Status
+
+- **P01** Submitted, January 2026
+- **P02** Submitted, February 2026
+- **P03** Submitted, April 2026
+
+### Next Stage
+
+- **P04-P09** Planned across the next 16 months
+
 ## Elsewhere
 
-- Personal website: [rudimirz.com](https://rudimirz.com)
-- GitHub projects: [github.com/rudimirz](https://github.com/rudimirz)
+- Website: [rudimirz.com](https://rudimirz.com)
+- GitHub: [github.com/rudimirz](https://github.com/rudimirz)
