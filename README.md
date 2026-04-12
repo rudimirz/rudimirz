@@ -6,11 +6,20 @@
 
 [Website](https://rudimirz.com) • [Papers](https://rudimirz.com/papers/) • [LinkedIn](https://linkedin.com/in/rudimirz) • [ORCID](https://orcid.org/0000-0001-8818-4876)
 
+<br />
+
+![Research](https://img.shields.io/badge/Research-Atmospheric%20Electricity-1f2937?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Environmental%20Monitoring-374151?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-Python%20%26%20Data%20Analysis-4b5563?style=flat-square)
+![Field](https://img.shields.io/badge/Field-Space%20Weather-6b7280?style=flat-square)
+
 </div>
 
 I am a PhD researcher at CRAAM working at the intersection of atmospheric electricity, environmental instrumentation, and scientific data analysis.
 
 This profile offers a concise overview of my research direction, current work, and publication roadmap. For publications, projects, and a broader portfolio, please visit [rudimirz.com](https://rudimirz.com).
+
+> Building usable scientific insight from atmospheric and geophysical signals.
 
 ## Research Focus
 
@@ -35,12 +44,11 @@ This profile offers a concise overview of my research direction, current work, a
 - Scientific Python
 - Data visualization
 
-## Approach
+## Tools
 
-- Clear scientific communication
-- Reproducible research workflows
-- Useful tools built from real research needs
-- Collaboration across institutions and disciplines
+- [Solar flares monitor](https://rudimirz.com/flares/)
+- [GOES X-ray viewer](https://rudimirz.com/goes_xray)
+- [Atmospheric electricity](https://rudimirz.com/swp/)
 
 ## Research Roadmap
 
@@ -52,11 +60,12 @@ Publish 9 papers by the completion of the PhD.
 
 - **P01** Submitted, January 2026
 - **P02** Submitted, February 2026
-- **P03** Submitted, April 2026
+- **P03** To be submitted, April 2026
+- **P04** To be submitted, April 2026
 
 ### Next Stage
 
-- **P04-P09** Planned across the next 16 months
+- **P05-P09** Planned across the next 16 months
 
 ## Elsewhere
 
