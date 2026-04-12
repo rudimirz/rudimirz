@@ -9,9 +9,9 @@
 <br />
 
 ![Research](https://img.shields.io/badge/Research-Atmospheric%20Electricity-1f2937?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Environmental%20Monitoring-374151?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Space%20Weather-374151?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%26%20Data%20Analysis-4b5563?style=flat-square)
-![Field](https://img.shields.io/badge/Field-Space%20Weather-6b7280?style=flat-square)
+![Field](https://img.shields.io/badge/Field-Environmental%20Monitoring-6b7280?style=flat-square)
 
 </div>
 
@@ -65,10 +65,11 @@ Publish 9 papers by the completion of the PhD.
 
 ### Next Stage
 
-- **P05-P09** Planned across the next 16 months
+- **P05-P09** Planned across the next 15 months
 
 ## Elsewhere
 
 - Website: [rudimirz.com](https://rudimirz.com)
 - Papers: [rudimirz.com/papers](https://rudimirz.com/papers/)
+- Space Weather Peru: [spaceweather-peru.org](https://www.spaceweather-peru.org/)
 - GitHub: [github.com/rudimirz](https://github.com/rudimirz)
