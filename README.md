@@ -4,7 +4,7 @@
 
 ### Atmospheric Electricity • Environmental Monitoring • Scientific Computing • Space Weather
 
-[Website](https://rudimirz.com) • [Papers](https://rudimirz.com/papers/) • [LinkedIn](https://linkedin.com/in/rudimirz) • [ORCID](https://orcid.org/0000-0001-8818-4876)
+[OpenMonitor](https://openmonitor.org) • [Chambica](https://chambica.com) • [Website](https://rudimirz.com) • [Papers](https://rudimirz.com/papers/) • [LinkedIn](https://linkedin.com/in/rudimirz) • [ORCID](https://orcid.org/0000-0001-8818-4876)
 
 <br />
 
