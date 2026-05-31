@@ -25,8 +25,8 @@ This profile offers a concise overview of my research direction, current work, a
 
 ## Founder Projects
 
-- **[OpenMonitor.org](https://openmonitor.org)** — Open-access scientific monitoring platform. *Solar OpenMonitor* integrates 4 instruments (GOES, RHESSI, RSTN, POEMAS) plus flare catalog. *PG OpenMonitor* shows live atmospheric potential gradient from 3 AFINSA stations in Peru. Founder and sole developer.
-- **[Chambica.com](https://chambica.com)** — Mobile platform for Peruvian users. Flutter + FastAPI stack, deployed on a single VPS. Founder and sole developer.
+- **[OpenMonitor.org](https://openmonitor.org)** — Open-access scientific monitoring platform. *Solar OpenMonitor* integrates 4 instruments (GOES, RHESSI, RSTN, POEMAS) plus flare catalog. *PG OpenMonitor* shows live atmospheric potential gradient from 3 AFINSA stations in Peru.
+- **[Chambica.com](https://chambica.com)** — Mobile platform for residents and tourists in Peru.
 
 ## Research Focus
 
