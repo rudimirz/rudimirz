@@ -11,6 +11,7 @@
 ![Research](https://img.shields.io/badge/Research-Atmospheric%20Electricity-1f2937?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Space%20Weather-374151?style=flat-square)
 ![Founder](https://img.shields.io/badge/Founder-OpenMonitor.org-0ea5e9?style=flat-square)
+![Founder](https://img.shields.io/badge/Founder-Chambica.com-10b981?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%26%20Data%20Analysis-4b5563?style=flat-square)
 ![Field](https://img.shields.io/badge/Field-Environmental%20Monitoring-6b7280?style=flat-square)
 
@@ -61,7 +62,7 @@ Publish 9 papers by the completion of the PhD.
 
 - **P01** Submitted, January 2026
 - **P02** Submitted, February 2026
-- **P03** To be submitted, May 2026
+- **P03** To be submitted, June 2026
 - **P04** To be submitted, June 2026
 
 ### Next Stage
