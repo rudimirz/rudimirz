@@ -21,7 +21,7 @@ I am a PhD researcher at CRAAM working at the intersection of atmospheric electr
 
 This profile offers a concise overview of my research direction, current work, and publication roadmap. For publications, projects, and a broader portfolio, please visit [rudimirz.com](https://rudimirz.com).
 
-> Building usable scientific insight from atmospheric and geophysical signals.
+> Open-access scientific tools and research at the intersection of atmospheric electricity and space weather — built for the global research community.
 
 ## Research Focus
 
