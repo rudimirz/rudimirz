@@ -53,7 +53,7 @@ This profile offers a concise overview of my research direction, current work, a
 
 ## Tools
 
-- [Solar flares monitor](https://rudimirz.com/flares/)
+- [Solar flare catalog explorer](https://rudimirz.com/flares/)
 - [GOES X-ray viewer](https://rudimirz.com/goes_xray)
 - [Atmospheric electricity](https://rudimirz.com/swp/)
 - [Aireica](https://aireica.com) — live AQI, PG and meteorological data for Ica, Peru, with alert system
