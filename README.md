@@ -8,11 +8,11 @@
 
 <br />
 
+![PhD](https://img.shields.io/badge/PhD%20Candidate-CRAAM-7c3aed?style=flat-square)
 ![Research](https://img.shields.io/badge/Research-Atmospheric%20Electricity-1f2937?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Space%20Weather-374151?style=flat-square)
 ![Founder](https://img.shields.io/badge/Founder-OpenMonitor.org-0ea5e9?style=flat-square)
 ![Founder](https://img.shields.io/badge/Founder-Chambica.com-10b981?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-Python%20%26%20Data%20Analysis-4b5563?style=flat-square)
 ![Field](https://img.shields.io/badge/Field-Environmental%20Monitoring-6b7280?style=flat-square)
 
 </div>
