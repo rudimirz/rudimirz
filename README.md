@@ -71,10 +71,12 @@ Publish 9 papers by the completion of the PhD.
 - **P03** Submitted, June 2026
 - **P04** To be submitted, July 2026
 - **P05** To be submitted, July 2026
+- **P06** To be submitted, August 2026
+- **P07** To be submitted, August 2026
 
 ### Next Stage
 
-- **P06-P09** Planned across the next 12 months
+- **P08-P09** Planned across the next 12 months
 
 ## Elsewhere
 
