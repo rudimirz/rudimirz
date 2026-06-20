@@ -66,7 +66,7 @@ Publish 9 papers by the completion of the PhD.
 
 ### Pipeline Status
 
-- **P01** Submitted, January 2026
+- **P01** Submitted, January 2026 · Published, April 2026
 - **P02** Submitted, February 2026
 - **P03** Submitted, June 2026
 - **P04** To be submitted, July 2026
