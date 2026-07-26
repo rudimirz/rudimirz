@@ -8,13 +8,13 @@
 
 <br />
 
-![PhD](https://img.shields.io/badge/PhD%20Candidate-CRAAM-7c3aed?style=flat-square)
-![Research](https://img.shields.io/badge/Research-Atmospheric%20Electricity-1f2937?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Space%20Weather-374151?style=flat-square)
-
-<br />
-
-![Founder](https://img.shields.io/badge/Founder-OpenMonitor%20%7C%20Chambica%20%7C%20Aireica-0ea5e9?style=flat-square)
+<p>
+  <img alt="PhD Candidate at CRAAM" src="https://img.shields.io/badge/PhD%20Candidate-CRAAM-7c3aed?style=flat-square" />
+  <img alt="Research in Atmospheric Electricity" src="https://img.shields.io/badge/Research-Atmospheric%20Electricity-2563eb?style=flat-square" />
+  <img alt="Focus on Space Weather" src="https://img.shields.io/badge/Focus-Space%20Weather-374151?style=flat-square" />
+  <br />
+  <img alt="Founder of OpenMonitor, Chambica, and Aireica" src="https://img.shields.io/badge/Founder-OpenMonitor%20%7C%20Chambica%20%7C%20Aireica-0ea5e9?style=flat-square" />
+</p>
 
 </div>
 
