@@ -62,10 +62,11 @@ I am a PhD researcher at CRAAM, Universidade Presbiteriana Mackenzie. My work co
 - **P01** Submitted, January 2026 · Published, April 2026 · DOI: [10.1016/j.atmosres.2026.109002](https://doi.org/10.1016/j.atmosres.2026.109002)
 - **P02** Submitted, March 2026 · Published, June 2026 · DOI: [10.1016/j.atmosres.2026.109171](https://doi.org/10.1016/j.atmosres.2026.109171)
 - **P03** Submitted, June 2026 · Under review
-- **P04** To be submitted, August 2026
-- **P05** To be submitted, August 2026
-- **P06** To be submitted, August 2026
-- **P07** To be submitted, August 2026
-- **P08–P09** Planned across the next 12 months
+- **P04** To be submitted, September 2026
+- **P05** To be submitted, September 2026
+- **P06** To be submitted, October 2026
+- **P07** To be submitted, October 2026
+- **P08** To be submitted, November 2026
+- **P09** To be submitted, November 2026
 
 Publications, projects, and the broader research portfolio are indexed at **[Rudimirz.com](https://rudimirz.com)**.
