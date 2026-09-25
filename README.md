@@ -22,12 +22,19 @@ I am a PhD researcher at CRAAM, Universidade Presbiteriana Mackenzie. My work co
 
 ## Research
 
-### Published research
+### Publications
 
-- Atmospheric potential-gradient variability at a tropical station in Ica, Peru
-- Regime-dependent sensitivity of atmospheric potential gradient to anthropogenic air pollution in São Paulo
-- Electrical lead time preceding an extreme Paracas dust-front intrusion in Ica
-- Constraints on atmospheric potential-gradient anomalies associated with earthquakes in Peru and Argentina
+**First author**
+
+- **Constraints on the interpretation of atmospheric potential gradient anomalies associated with earthquakes: Evidence from Peru and Argentina** — *Advances in Space Research* (2026) · [10.1016/j.asr.2026.09.063](https://doi.org/10.1016/j.asr.2026.09.063)
+- **Electrical lead time during an extreme haboob-like dust-front intrusion in Ica, Peru** — *Atmospheric Research* (2026) · [10.1016/j.atmosres.2026.109171](https://doi.org/10.1016/j.atmosres.2026.109171)
+- **Regime-dependent sensitivity of the atmospheric potential gradient to anthropogenic air pollution in São Paulo, Brazil** — *Atmospheric Research* (2026) · [10.1016/j.atmosres.2026.109002](https://doi.org/10.1016/j.atmosres.2026.109002)
+- **First results of the potential gradient variation in a tropical station in South America (Ica, Peru)** — *Journal of Atmospheric and Solar-Terrestrial Physics* (2024) · [10.1016/j.jastp.2024.106198](https://doi.org/10.1016/j.jastp.2024.106198)
+
+**Co-author**
+
+- **The May 2024 geospace superstorm and its impact on the Global Electric Circuit worldwide** — Tacza et al., *Journal of Space Weather and Space Climate* (2026) · [10.1051/swsc/2026029](https://doi.org/10.1051/swsc/2026029)
+- **Space weather impact of three solar flares observed by the POEMAS telescope at 45 and 90 GHz** — Valio et al., *Journal of Geophysical Research: Space Physics* (2025) · [10.1029/2025JA034611](https://doi.org/10.1029/2025JA034611)
 
 ### Research in progress
 
@@ -59,6 +66,8 @@ I am a PhD researcher at CRAAM, Universidade Presbiteriana Mackenzie. My work co
 - **[GOES X-ray Viewer](https://rudimirz.com/goes_xray)** — Browser-based exploration of long-term GOES X-ray observations.
 
 ## Publication Roadmap
+
+First-author manuscripts from my doctoral research, 2026 onward.
 
 - **P01** Submitted, January 2026 · Published, April 2026 · DOI: [10.1016/j.atmosres.2026.109002](https://doi.org/10.1016/j.atmosres.2026.109002)
 - **P02** Submitted, March 2026 · Published, June 2026 · DOI: [10.1016/j.atmosres.2026.109171](https://doi.org/10.1016/j.atmosres.2026.109171)
