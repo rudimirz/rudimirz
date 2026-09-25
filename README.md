@@ -27,6 +27,7 @@ I am a PhD researcher at CRAAM, Universidade Presbiteriana Mackenzie. My work co
 - Atmospheric potential-gradient variability at a tropical station in Ica, Peru
 - Regime-dependent sensitivity of atmospheric potential gradient to anthropogenic air pollution in São Paulo
 - Electrical lead time preceding an extreme Paracas dust-front intrusion in Ica
+- Constraints on atmospheric potential-gradient anomalies associated with earthquakes in Peru and Argentina
 
 ### Research in progress
 
@@ -61,9 +62,9 @@ I am a PhD researcher at CRAAM, Universidade Presbiteriana Mackenzie. My work co
 
 - **P01** Submitted, January 2026 · Published, April 2026 · DOI: [10.1016/j.atmosres.2026.109002](https://doi.org/10.1016/j.atmosres.2026.109002)
 - **P02** Submitted, March 2026 · Published, June 2026 · DOI: [10.1016/j.atmosres.2026.109171](https://doi.org/10.1016/j.atmosres.2026.109171)
-- **P03** Submitted, June 2026 · Under review
-- **P04** To be submitted, September 2026
-- **P05** To be submitted, September 2026
+- **P03** Submitted, June 2026 · Published, September 2026 · DOI: [10.1016/j.asr.2026.09.063](https://doi.org/10.1016/j.asr.2026.09.063)
+- **P04** To be submitted, October 2026
+- **P05** To be submitted, October 2026
 - **P06** To be submitted, October 2026
 - **P07** To be submitted, October 2026
 - **P08** To be submitted, November 2026
